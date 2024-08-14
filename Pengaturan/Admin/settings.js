@@ -21,7 +21,7 @@ global.anticall = true
 global.qris = fs.readFileSync("./image/qrisbaru.jpg") //Sesuaikan Dengan Nama Gambar Qris Di Folder Image
 
 //______________________[ GC MEMBER ]_______________________//
-global.gcresmi = 'https://chat.whatsapp.com/H9XcsTYHLjs0k6IpqtpKxl' //Ganti Dengan Link Groupmu
+global.gcresmi = 'https://chat.whatsapp.com/CTQeQDICSoe5sOWrnUUzcO' //Ganti Dengan Link Groupmu
 
 //______________________[ DATA REKENING ]_______________________//
 global.rekening = `
