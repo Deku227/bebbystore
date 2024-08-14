@@ -1,7 +1,7 @@
 // API DIGIFLAZZ PRODUCTION
 const digiuser = 'vavaxogxLbAg'
 const digiapi = '43249e40-de09-5e8a-b92b-b4fbd8ce12f3'
-const nomorKu = '6285133475252@s.whatsapp.net' //GANTI NOMORMU
+const nomorKu = '6285872002384@s.whatsapp.net' //GANTI NOMORMU
 
 // SETTING KEUNTUNGAN MEMBER BERDASARKAN PERSEN (%)
 const prmember = '5'
@@ -10,7 +10,7 @@ const prplatinum = '3'
 const prpartner = '1'
 
 // API PAYDISINI
-const keypaydis = 'ae82841c8d749f7319dfdf9e13d63ae1'
+const keypaydis = 'bd1605d1834f0db19c37a538698d3c43'
 const merchpaydis = '' //Kosongkan Jika Belum Verifikasi Merchant
 const servpaydis = '11' //Buat 11 Jika Belum Verifikasi Merchant
 const batas_time = '300'; //Batas waktu pembayaran (detik) minimal 1800 30 menit dan maximal 10800 3 jam
